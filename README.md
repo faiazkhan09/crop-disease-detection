@@ -1,5 +1,5 @@
 
-# Crop Disease Dection using Deep Learning
+# Crop Disease Detection using Deep Learning
 
 This is a short Machine Learning project to detect certain deseases in Corn, Wheat, Potato & Rice plants. The model has obtained an accuracy of 89.78% in correctly identifying deseases. 
 
